@@ -1,0 +1,44 @@
+.time {
+  font-size: 12px;
+  color: var(--lighter);
+}
+
+.timeline {
+  margin-top: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 80%;
+}
+
+.rc-slider-rail {
+  background-color: var(--light);
+  height: 5px;
+  border-radius: 5px;
+}
+
+.rc-slider-track {
+  background-color: var(--lighter);
+  height: 5px;
+  margin-top: -5px;
+  border-radius: 5px;
+  transition: background-color .1s ease-in-out;
+}
+
+.handle {
+  display:none;
+  position: relative;
+  margin-top: -8.5px;
+  margin-left: -6px;
+  height: 12px;
+  width: 12px;
+  border-radius: 6px;
+  background-color: var(--lightest);
+}
+
+.trc-slider:hover .rc-slider-track {
+  background-color: var(--green);
+}
+
+.rc-slider:hover .handle {
+  display: block;
+}

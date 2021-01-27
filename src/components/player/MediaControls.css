@@ -1,0 +1,56 @@
+.media-controls {
+  margin-top: 20px;
+}
+
+.popover,
+.popover-header,
+.popover-body {
+  background-color: var(--darker);
+  color: var(--lightest);
+  border: none;
+}
+
+.arrow::after {
+  border-top-color: var(--darker) !important;
+}
+
+.popover-header {
+  text-align: center;
+}
+
+.device-name, .device-type {
+  transition: color 0.2s ease-in;
+}
+
+.active .device-name,
+.active .device-type {
+  color: var(--green);
+}
+
+.device:hover *  {
+  color: var(--green);
+  cursor: pointer;
+}
+
+.img-device {
+  height: 32px;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+
+.device-name {
+  color: var(--lightest);
+  font-size: 13px;
+}
+
+.device-type {
+  font-size: 12px;
+}
+
+.volume {
+  min-width: 100px;
+}
+
+.volume-slider {
+  margin-top: 12.5px;
+}

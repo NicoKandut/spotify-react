@@ -1,0 +1,9 @@
+.upper-spacer, .lower-spacer {
+    height: 10px;
+    background-color: red;
+    
+}
+
+.menu-item {
+    padding: 5px;
+}

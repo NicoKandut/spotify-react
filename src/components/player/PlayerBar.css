@@ -1,0 +1,17 @@
+.player-bar {
+  padding: 5px;
+  margin: 0px;
+  color: var(--lightest);
+  background-color: var(--medium);
+  min-height: 74px;
+  max-height: 74px;
+}
+
+.info-display,
+.ctrl-display {
+  padding: 0px;
+}
+
+.ctrl-display {
+  padding-top: 10px;
+}

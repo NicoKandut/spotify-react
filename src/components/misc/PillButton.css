@@ -1,0 +1,10 @@
+.btn-pill {
+    background-color: var(--green);
+    color:var(--lightest);
+    font-size: 12px;
+    font-weight:bold;
+    text-transform: uppercase;
+    padding:7px 40px;
+    border:none;
+    border-radius: 100px;
+}

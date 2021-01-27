@@ -1,0 +1,16 @@
+.btn-ctrl {
+  background: none;
+  padding: 0px;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: auto;
+}
+
+.img-ctrl {
+  max-width: 32px;
+}
+
+.img-ctrl-small {
+  max-width: 13px;
+}

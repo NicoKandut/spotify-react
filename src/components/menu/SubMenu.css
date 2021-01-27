@@ -1,0 +1,32 @@
+.submenu {
+  width:100%;
+  padding: 10px 0px 0px 10px;
+  background-color: var(--darker);
+  transition: all 0.2s ease-in-out;
+  overflow-y: scroll;
+}
+
+.playlist-thumbnail {
+  max-height: 32px;
+  margin-right: 10px;
+}
+
+.playlist {
+  transition: all 0.1s ease-in-out;
+}
+
+.playlist:hover {
+  color: var(--lightest);
+  background-color: var(--dark);
+  cursor: pointer;
+}
+
+.playlist-desc-small {
+  font-size: 10px;
+}
+
+.inp-search {
+  border:none;
+  border-radius: 20px;
+  padding:2px 5px;
+}

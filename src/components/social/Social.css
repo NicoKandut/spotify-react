@@ -1,0 +1,36 @@
+.social {
+  background-color: var(--darker);
+  color: var(--lightest);
+  padding: 10px;
+}
+
+.you {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: thin solid var(--medium)
+}
+
+.img-user {
+  max-height: 50px;
+  border-radius: 25px;
+}
+
+.user-details {
+  margin-left: 10px;
+}
+
+.user-name {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.user-followers {
+  font-size: 12px;
+  color: var(--lighter);
+}
+
+.social h3 {
+    font-size:13px;
+    color: var(--lighter);
+    text-transform: uppercase;
+}
