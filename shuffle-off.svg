@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.4666667 8.4666667"
+   height="32"
+   width="32">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath972"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         id="use974">
+        <rect
+           mask="none"
+           transform="rotate(44.497811)"
+           y="204.85587"
+           x="205.52971"
+           height="2.1762552"
+           width="2.1762552"
+           id="rect1021"
+           style="fill:#04ffff;fill-opacity:1;stroke:none;stroke-width:1.30941153;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           mask="none"
+           transform="rotate(44.497812)"
+           y="204.91196"
+           x="208.3157"
+           height="2.1762552"
+           width="2.1762552"
+           id="rect1023"
+           style="fill:#04ffff;fill-opacity:1;stroke:none;stroke-width:1.30941153;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </clipPath>
+    <clipPath
+       id="clipPath1045"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="rotate(-45)"
+         y="207.45451"
+         x="-205.05107"
+         height="2.0696683"
+         width="2.0696683"
+         id="rect1047"
+         style="fill:#04ffff;fill-opacity:1;stroke:none;stroke-width:0.39343542;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath1051"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="rotate(-45)"
+         y="210.11198"
+         x="-205.16203"
+         height="2.1828125"
+         width="2.1828125"
+         id="rect1053"
+         style="fill:#04ffff;fill-opacity:1;stroke:none;stroke-width:0.39343542;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-288.53332)"
+     id="layer1">
+    <path
+       transform="matrix(0.99999189,0,0,1,1.9101313e-5,-0.23386384)"
+       d="m 6.1115085,292.11417 -0.5155557,0.29765 -0.5155558,0.29766 v -0.59531 -0.59532 l 0.5155558,0.29766 z"
+       id="path895"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27185994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="matrix(0.99999189,0,0,1,1.9101313e-5,-0.23386384)"
+       d="m 6.1115085,293.88687 -0.5155557,0.29766 -0.5155558,0.29765 1e-7,-0.59531 -1e-7,-0.59531 0.5155558,0.29766 z"
+       id="path895-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27185994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path920"
+       d="m 2.3551885,293.76061 c 1.4941057,0 2.0170423,-1.98791 3.1749742,-1.98791"
+       style="fill:none;stroke:#ffffff;stroke-width:0.39343381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="matrix(0.99999189,0,0,1,0.10624848,-3.0049496e-6)"
+       clip-path="url(#clipPath1045)"
+       mask="none"
+       id="path920-6"
+       d="m 2.2489583,291.7727 c 1.4941178,0 2.0170586,1.98791 3.175,1.98791"
+       style="fill:none;stroke:#ffffff;stroke-width:0.39333853;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="matrix(0.99999189,0,0,1,0.10624848,-3.0049496e-6)"
+       clip-path="url(#clipPath1051)"
+       mask="none"
+       id="path920-6-0"
+       d="m 2.2489583,291.7727 c 1.4941178,0 2.0170586,1.98791 3.175,1.98791"
+       style="fill:none;stroke:#ffffff;stroke-width:0.39333853;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
