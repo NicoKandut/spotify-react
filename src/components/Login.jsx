@@ -5,7 +5,7 @@ export default class Login extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      error: props.error
+      error: props.error,
     };
   }
 
@@ -13,7 +13,15 @@ export default class Login extends React.Component {
     return (
       <div>
         {this.state.error ? <p>{this.state.error}</p> : null}
-        <a href={urls.auth("http://localhost:3000/")}>Login</a>
+        <a
+          href={urls.auth(
+            process.env.NODE_ENV === "development"
+              ? "http://localhost:3000/"
+              : "https://nicokandut.github.io/spotify-react"
+          )}
+        >
+          Login
+        </a>
       </div>
     );
   }
